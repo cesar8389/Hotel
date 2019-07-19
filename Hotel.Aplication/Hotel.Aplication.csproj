@@ -5,4 +5,14 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Domain\" />
+    <Folder Include="Crosscutting\" />
+    <Folder Include="Business\" />
+    <Folder Include="Infraestructure\" />
+    <Folder Include="Integrations\" />
+    <Folder Include="Repository\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
 </Project>

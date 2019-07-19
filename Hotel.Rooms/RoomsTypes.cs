@@ -6,6 +6,6 @@ namespace Hotel.Rooms
 {
     class RoomsTypes
     {
-		
+        enum Types { Single, Standard, Luxo};
     }
 }
