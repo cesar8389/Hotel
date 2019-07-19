@@ -6,5 +6,10 @@ namespace Hotel.Aplication.Domain
 {
     class RoomType
     {
+        public RoomType()
+        {
+
+        }
+        enum type { Single, Standard, Luxo }
     }
 }

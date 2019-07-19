@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Domain\" />
     <Folder Include="Crosscutting\" />
     <Folder Include="Infraestructure\" />
     <Folder Include="Integrations\" />
