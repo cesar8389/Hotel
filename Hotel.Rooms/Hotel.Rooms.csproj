@@ -5,12 +5,4 @@
     <TargetFramework>netcoreapp2.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="RoomsTypes.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="RoomsTypes.cs" />
-  </ItemGroup>
-
 </Project>
